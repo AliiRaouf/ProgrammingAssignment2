@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## all the comments are listed bellow
 ## functions do
 
 # comments are listed inside each function
